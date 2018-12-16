@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  font-family: Sansation;
+}
+
+header {
+  width: 100%;
+  height: 225px;
+  background: #2C3A43;
+}
+
+.jncd {
+position: absolute;
+width: 214px;
+height: 19px;
+left: 0px;
+top: 34px;
+}
+
+.logo {
+  position: absolute;
+  width: 479px;
+  height: 225px;
+  left: 273px;
+  top: 0px;
+}

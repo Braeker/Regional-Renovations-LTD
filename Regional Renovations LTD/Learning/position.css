@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  
+}
+
+.parent1 {
+  background-color: yellow;
+  border: 2px solid black;
+  height: 70vh;
+  width: 100vw;
+  margin: 0 auto;
+}
+
+.parent2 {
+  background-color: green;
+  border: 2px solid black;
+}
+
+.parent3 {
+  background-color: blue;
+  border: 2px solid black;
+}
+
+.child1 {
+  background-color: red;
+  border: 2px solid black;
+  margin: 0;
+}
+
+.child2 {
+  background-color: pink;
+  border: 2px solid black;
+  display: inline;
+
+}
+
+.child3 {
+  background-color: purple;
+  border: 2px solid black;
+  display: inline;
+
+}
+
+.infant1 {
+  background-color: white;
+  border: 2px solid black;
+  display: inline;
+}
+
+.infant2 {
+  background-color: white;
+  border: 2px solid black;
+  display: inline;
+}
+
+.infant3 {
+  background-color: white;
+  border: 2px solid black;
+  display: inline;
+}
